@@ -17,4 +17,4 @@ See if the 7 segment display shows a C
 
 ## External hardware
 
-
+N/A
